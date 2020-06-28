@@ -12,6 +12,7 @@ public class Hooks extends BaseTest  {
 
         System.out.println("This is opening browser");
         System.out.println("created new branch");
+        System.out.println("made changes");
 
         BaseTest.openDriver();
     }
