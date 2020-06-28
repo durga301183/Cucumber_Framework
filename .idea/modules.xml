@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BDDFramework_Cucumber.iml" filepath="$PROJECT_DIR$/BDDFramework_Cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cucumber_Framework.iml" filepath="$PROJECT_DIR$/.idea/Cucumber_Framework.iml" />
     </modules>
   </component>
 </project>
